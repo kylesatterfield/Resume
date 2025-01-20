@@ -161,7 +161,7 @@ a:hover {
 .skills {
     margin-top: 20px;
     box-shadow: 0 0 20px rgba(255, 255, 255, 1);
-    background-color: rgba(0, 0, 0, .8);
+    background-color: rgba(0, 0, 0, 0.8);
     border-radius: 20px;
     padding: 20px;
     padding-top: 5px;
@@ -190,7 +190,7 @@ a:hover {
     margin-bottom: 30px;
     margin-top: 20px;
     box-shadow: 0 0 20px rgba(255, 255, 255, 1);
-    background-color: rgba(0, 0, 0, .8);
+    background-color: rgba(0, 0, 0, 0.8);
     border-radius: 20px;
     padding: 20px;
 }
@@ -228,7 +228,7 @@ hr {
 }
 
 button {
-    background-color: rgba(0, 0, 0, .8);
+    background-color: rgba(0, 0, 0, 0.8);
     color: white;
     
     box-shadow: 0 0 20px rgba(255, 255, 255, 1);
